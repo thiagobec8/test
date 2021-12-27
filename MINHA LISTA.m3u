@@ -4,3 +4,7 @@ https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CARTOON",ANIME 
 https://stmv1.srvif.com/animetv/animetv/chunklist_w617070452.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CARTOON",CARTOON NETWORK
+http://168.205.87.198:8555/live/antony/1234/26.ts
+#EXTINF:0 tvg-logo="https://i.ibb.co/X5dVVfk/DISNEY-CHANNEL.png" group-title="CARTOON",DISNEY CHANNEL
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16713
